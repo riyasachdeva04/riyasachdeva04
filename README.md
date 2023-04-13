@@ -5,10 +5,7 @@
 - 🤔 I’m looking for help with Data Structures & Algorithms.
 
 - 📫 How to reach me:
-<p align="left"><span class="tab"></span>
-<a href="https://twitter.com/riiiwtff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riiiwtff" height="30" width="40" /></a> </p>
-<p align="left"><span class="tab"></span>
-<a href="https://www.linkedin.com/in/riyasachdeva04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyasachdeva04" height="30" width="40" /></a></p>
-<p align="left"><span class="tab"></span>
-<a href="https://instagram.com/riii2048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riii2048" height="30" width="40" /></a>
-</p>
+
+	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
+	[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riiiwtff)
+	[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/riii2048/)
