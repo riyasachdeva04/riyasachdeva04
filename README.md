@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there!!</h1>
+<h1 align="left">Hey there!!</h1>
 
 
 - 🌱 I’m currently learning Deep Learning.
