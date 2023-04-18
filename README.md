@@ -27,5 +27,4 @@
 		
 - Github Stats:
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riyasachdeva04&show_icons=true&locale=en" alt="riyasachdeva04" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04" alt="riyasachdeva04" /></p>
