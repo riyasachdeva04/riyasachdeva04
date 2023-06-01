@@ -3,7 +3,6 @@
 <h1 align="left">Hey there!!</h1>
 
 
-- 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on Machine Learning.
 - 🤔 I’m looking for help with Data Structures & Algorithms.
 
