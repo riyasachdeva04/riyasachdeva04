@@ -19,8 +19,7 @@
 	<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 	<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
-	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+	<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
 	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
 	<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 	<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
