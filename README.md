@@ -29,4 +29,11 @@
 		
 - Github Stats:
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04" alt="riyasachdeva04" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04" alt="riyasachdeva04" />
+
+</p> <br />
+
+<br></br><br></br><br></br><br></br>
+- Github Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=riyasachdeva04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
