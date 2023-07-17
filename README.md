@@ -26,11 +26,16 @@
 	<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 	<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 	<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+	<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+ 	<img align="left" alt=Unity" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+
+		
 	</p><br></br>
 		
 - Github Stats:
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04" alt="riyasachdeva04" />
+	![](https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04)
+
 
 </p> <br />
 
