@@ -39,7 +39,9 @@
 
 </p> <br />
 
-<br></br><br></br><br></br><br></br>
-- Github Trophies:
+## Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=riyasachdeva04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/riyasachdeva04?theme=dark&font=contest)
