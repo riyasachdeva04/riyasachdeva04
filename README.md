@@ -3,7 +3,7 @@
 <h1 align="left">Hey there!!</h1>
 
 
-- 🌱 I’m currently learning XR, NLP and DSA.
+- 🌱 I’m currently learning NLP and DSA.
 - 🤔 I’m currently working on ML projects.
 - 📲 I'm looking forward to work on AI+IOT soon...
 
