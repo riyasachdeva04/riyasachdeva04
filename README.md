@@ -32,9 +32,9 @@
 		
 	</p><br></br>
 		
-- Github Stats:
+<!-- - Github Stats:
 
-	![](https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04)
+	![](https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04) --->
 
 
 </p> <br />
