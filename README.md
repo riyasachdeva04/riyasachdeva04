@@ -7,7 +7,7 @@
 - 🤔 I’m currently working on ML projects.
 - 📲 I'm looking forward to work on AI+IOT soon...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kp4xqwotqex7gbdbzvqnnfna5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=379334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kp4xqwotqex7gbdbzvqnnfna5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=379334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) --->
 
 - 📫 How to reach me:
 
