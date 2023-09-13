@@ -28,6 +28,7 @@
 	<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 	<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
  	<img align="left" alt=Unity" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+	<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 
 		
 	</p><br></br>
