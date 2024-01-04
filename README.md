@@ -16,22 +16,27 @@
 	[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/riii2048/)
 
 - Languages and Tools:
-	
-	<p>
-	<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-	<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-	<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
-	<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
-	<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-	<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
-	<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-	<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
- 	<img align="left" alt=Unity" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
-	<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 
-		
-	</p><br></br>
+[<img src="https://img.shields.io/badge/HTML%20-grey?style=for-the-badge&logo=html" alt="mySQL logo" title="HTML" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS%20-grey?style=for-the-badge&logo=css" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Bootstrap%20-grey?style=for-the-badge&logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Figma%20-grey?style=for-the-badge&logo=figma" alt="Figma logo" title="Figma" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/mySQL%20-grey?style=for-the-badge&logo=mysql" alt="mySQL logo" title="mySQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Flutter%20-grey?style=for-the-badge&logo=flutter" alt="Flutter logo" title="Flutter" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C%20-grey?style=for-the-badge&logo=c" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C++%20-grey?style=for-the-badge&logo=c" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python%20-grey?style=for-the-badge&logo=python" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Flask%20-grey?style=for-the-badge&logo=flask" alt="Flask logo" title="Flask" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Django%20-grey?style=for-the-badge&logo=django" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Pytorch%20-grey?style=for-the-badge&logo=pytorch" alt="Pytorch logo" title="Pytorch" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/OpenCV%20-grey?style=for-the-badge&logo=opencv" alt="OpenCV logo" title="OpenCV" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C%23-grey?style=for-the-badge&logo=C#" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=Unity" alt="C# logo" title="Unity" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Solidity-grey?style=for-the-badge&logo=Solidity" alt="Solidity logo" title="Solidity" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=Docker" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+
+[tech_tools_anchor]: #bonjour--
+
 		
 - Github Stats:
 
