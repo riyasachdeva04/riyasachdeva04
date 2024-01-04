@@ -2,20 +2,16 @@
 
 <h1 align="left">Hey there!!</h1>
 
+ 🤖 I am a Machine Learning Enthusiast.<br>
+ 💻 I am currently learning Blockchain Development.<br>
 
-- 🌱 I’m currently learning NLP and DSA.
-- 🤔 I’m currently working on ML projects.
-- 📲 I'm looking forward to work on AI+IOT soon...
+## 📫 How to reach me:
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kp4xqwotqex7gbdbzvqnnfna5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=379334&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) --->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riiiwtff)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/riii2048/)
 
-- 📫 How to reach me:
-
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
-	[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riiiwtff)
-	[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/riii2048/)
-
-- Languages and Tools:
+## Languages and Tools:
 
 [<img src="https://img.shields.io/badge/HTML%20-grey?style=for-the-badge&logo=html" alt="mySQL logo" title="HTML" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/CSS%20-grey?style=for-the-badge&logo=css" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
@@ -38,9 +34,9 @@
 [tech_tools_anchor]: #bonjour--
 
 		
-- Github Stats:
+## Github Stats:
 
-	![](https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=riyasachdeva04) 
 
 
 </p> <br />
