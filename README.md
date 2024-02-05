@@ -30,6 +30,9 @@
 [<img src="https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=Unity" alt="C# logo" title="Unity" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Solidity-grey?style=for-the-badge&logo=Solidity" alt="Solidity logo" title="Solidity" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=Docker" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=Express" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs" alt="Node.JS logo" title="NodeJS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react" alt="React logo" title="React.JS" height="25" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
 
