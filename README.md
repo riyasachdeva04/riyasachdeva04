@@ -15,6 +15,7 @@
 
 [<img src="https://img.shields.io/badge/HTML%20-grey?style=for-the-badge&logo=html5" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/CSS%20-grey?style=for-the-badge&logo=css3" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript" alt="JS logo" title="JS" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Bootstrap%20-grey?style=for-the-badge&logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Figma%20-grey?style=for-the-badge&logo=figma" alt="Figma logo" title="Figma" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/mySQL%20-grey?style=for-the-badge&logo=mysql" alt="mySQL logo" title="mySQL" height="25" />][tech_tools_anchor]
