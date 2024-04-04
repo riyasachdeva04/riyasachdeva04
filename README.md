@@ -2,8 +2,8 @@
 
 <h1 align="left">Hey there!!</h1>
 
- 🤖 I am a Machine Learning Enthusiast.<br>
- 💻 I am currently learning Blockchain Development.<br>
+ 🤖 Talk to me about Machine Learning.<br>
+ 💻 I am currently learning Backend Development and building ML pipelines.<br>
 
 ## 📫 How to reach me:
 
