@@ -5,11 +5,13 @@
  🤖 Talk to me about Machine Learning.<br>
  💻 I am currently learning Backend Development and building ML pipelines.<br>
 
-## 📫 How to reach me:
+## 📫 Profiles:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/riii2048/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rsachdeva_be22@thapar.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyasachdeva04/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsachdeva_be22@thapar.edu)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/riiiwtff)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/riyasachdeva04/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://diamond-cotija-c62.notion.site/Riya-s-Projects-2e7aa65ed8c74e4d8885c4fd21317376)
 
 ## Languages and Tools:
 
